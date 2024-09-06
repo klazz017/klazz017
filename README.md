@@ -1,16 +1,16 @@
-## Hi there 👋
+## bodia👋
 
-<!--
-**klazz017/klazz017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--
+**klazz017/klazz017** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 trabaio no gueto
+- 🌱 eu toco ukulele, sou bonita e canto KKK
+- 👯 me comprem lanche
+- 🤔 nao sei cozinhar
+- 💬 nao me pergunte sobre sagui
+- 📫 ra re ri ro rua
+- 😄 la/ele
+- ⚡ ninguem gosta do oruam
 -->
